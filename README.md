@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=MagiDrag0n" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagiDrag0n" /> </div>
