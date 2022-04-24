@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 你好！
-### Hi There!
+### 你好！  /  Hi There!
+![](https://cdn.jsdelivr.net/gh/MagiDrag0n/PicBed/img/friendlink.png)
