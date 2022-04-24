@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://cdn.jsdelivr.net/gh/MagiDrag0n/PicBed/img/friendlink.png)
+<img src="https://cdn.jsdelivr.net/gh/MagiDrag0n/PicBed/img/friendlink.png" style="zoom: 25%;" />
+
 ### 你好！  /  Hi There! 
 <img src="https://visitor-badge.glitch.me/badge?page_id=MagiDrag0n" />
 --- 
@@ -22,10 +23,11 @@ Here are some ideas to get you started:
 - 😄 寻找一些开发搞事情的小伙伴，主要方向是Java Python后端。
 - Looking for partner on Java, Python Back-end.
 
-<div>
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagiDrag0n" /> 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiDrag0n" />  -->
 </div>
+
 
 
 
