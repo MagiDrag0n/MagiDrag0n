@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### 联系我  /  Contacts Me
 - ⚡ Email: magidragon@foxmail.com
 - 🎮 STEAM: https://steamcommunity.com/id/magidragon
-- 📝 BLOG: blog.magi-verse.com
+- 📝 BLOG: https://blog.magi-verse.com/
 
 <div align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=MagiDrag0n" />
