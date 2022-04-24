@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 - 😄 寻找一些开发搞事情的小伙伴，主要方向是Java Python后端。
 - Looking for partner on Java, Python Back-end.
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagiDrag0n" /> 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiDrag0n" />  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiDrag0n" /> 
 </div>
-<div align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=MagiDrag0n" />
-</div>
+ -->
 
 ### 联系我  /  Contacts Me
 - ⚡ Email: magidragon@foxmail.com
 - 🎮 STEAM: https://steamcommunity.com/id/magidragon
 
-
+<div align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=MagiDrag0n" />
+</div>
 
 
 
