@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 <img src="https://visitor-badge.glitch.me/badge?page_id=MagiDrag0n" />
 </div>
 
+### 联系我  /  Contacts Me
+- ⚡ Email: magidragon@foxmail.com
+- 🎮 STEAM: https://steamcommunity.com/id/magidragon
 
 
 
