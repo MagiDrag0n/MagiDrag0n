@@ -28,9 +28,9 @@ Here are some ideas to get you started:
  -->
 
 ### 联系我  /  Contacts Me
-- ⚡ Email: magidragon@foxmail.com
+- ⚡ Email: me@magi-verse.com
 - 🎮 STEAM: https://steamcommunity.com/id/magidragon
-- 📝 BLOG: https://blog.magi-verse.com/
+- 📝 BLOG: https://magi-verse.com/
 
 <div align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=MagiDrag0n" />
