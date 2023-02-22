@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ### 你好！  /  Hi There! 
-- 🔭 我是一名软件工程专业在读学生，兴趣涉猎广泛：代码、游戏、摄影、美食探店。
-- Currently Major On Software Engineering, Interests in Coding, Gaming, Photography N Food.
-- 😄 寻找一些开发搞事情的小伙伴，主要方向是 Java Python 后端。
-- Looking for partner on Java, Python Back-end.
+- 软件工程专业，Java后端开发
+- 中文土著、英语精通，德语基础
+- 性格类型为 ENFJ
+- CN-Values类型为 Social Liberalism
 
 <!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagiDrag0n" /> 
@@ -26,9 +26,8 @@ Here are some ideas to get you started:
  -->
 
 ### 联系我  /  Contacts Me
-- ⚡ Email: me@magi-verse.com
-- 🎮 STEAM: https://steamcommunity.com/id/magidragon
-- 📝 BLOG: https://magi-verse.com/
+- Email: me@magi-verse.com
+- Telegram: @MagiEmon
 
 <div align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=MagiDrag0n" />
