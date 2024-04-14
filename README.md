@@ -13,19 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 你好！  /  Hi There! 
-- 软件工程专业，Java后端开发
-- 中文土著、英语精通，德语基础
-- 性格类型为 ENFJ
-- CN-Values类型为 Social Liberalism
-
 <!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagiDrag0n" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiDrag0n" /> 
 </div>
  -->
 
-### 联系我  /  Contacts Me
+### Contacts Me
 - Email: me@magi-verse.com
 - Telegram: @MagiEmon
 
